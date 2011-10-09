@@ -21,6 +21,15 @@ a {
   text-decoration: none;
 }
 
+code {
+  background: #FFF;
+  border: 1px solid #DBDBDB;
+  border-radius: 3px;
+  font-family: Courier, monospace;
+  font-size: 13px;
+  padding: 2px;
+}
+
 header h1 {
   color: #1F1E21;
   font-family: Lobster, Georgia, serif;
