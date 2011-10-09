@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</a></h1>
+<h4>{{ page.location}} / {{ page.date | date_to_string }}</h4>
+
+{{ content }}
+
+<p>
+  <h4>
+    <a href="/">Home</a> /
+    <a href="{{ page.url }}">Permalink</a>
+  </h4>
+</p>

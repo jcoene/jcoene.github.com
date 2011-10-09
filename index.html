@@ -1,0 +1,20 @@
+---
+layout: default
+title: Home
+---
+
+<section class='posts'>
+  {% for post in site.posts limit:10 %}
+    <article>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h4>{{ post.date || date_to_string }}</h4>
+      <p>{{ post.summary }}</p>
+    </article>
+  {% endfor %}
+</section>
+
+<h2>Recently on Twitter...</h2>
+<section class='tweets'>
+  <div class='stream'></div>
+  <a href="http://twitter.com/jcoene">more...</a>
+</section>
