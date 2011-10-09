@@ -28,22 +28,22 @@ I maintain these open source projects:
 I work on interesting projects, sometimes for money.
 
 ### Major League Gaming
-#### Chief Information Officer, 2007 - 2008
+#### CIO, 2007 - 2008
 
 Served in a transitory role after MLG's acquisition of Gotfrag to assist with migration and development of competitive PC gaming business. Managed the migration of the popular MMO Champion website. Assisted with the training of MLG staff on the GotFrag Content Delivery Platform. Migrated Gotfrag payments, budgets and personnel data to MLG systems. Helped drive the legitimacy of World of Warcraft as a competitive game.
 
 ### Gotfrag
-#### Founder, Chief Technology Officer, 2003 - 2007
+#### Founder, CTO, 2003 - 2007
 
 Founded company with four others, prividing key strategic and tactical direction in the rapidly growing space of competitive gaming. Served as the lone developer of the Gotfrag.com network of websites, including the creation and deployment of a unique CMS to fit the needs of company staff. Deployed a custom network and server infrastructure for content delivery to over 1 million unique servers every month. Participated in the day to day management of company operations. Oversaw content creation and delivery operations at gaming events throughout the United States and in Europe. Helped lead company through successful multi-million dollar acquisition.
 
 ### DataHive Networking
-#### Lead Systems Developer, 2001 - 2004
+#### Lead Developer, 2001 - 2004
 
 Founded company with a goal to provide simple and easy to understand network technology to small business. Led development of 4 network server appliance products including a wide variety of network serving protocols and convenience features based on open source technologies. Participated in the day to day management of company operations.
 
 ### Ideal Multimedia Systems
-#### Computer Engineer, 1998 - 2001
+#### Engineer, 1998 - 2001
 
 Created specifications for and assembled computer and server systems. Established and deployed technical solutions for a variety of business needs. Managed small business networks based on Microsoft and Open Source technologies.
 
