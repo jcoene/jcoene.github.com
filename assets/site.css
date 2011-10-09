@@ -109,17 +109,20 @@ ul.tweet_list {
 ul.tweet_list li {
   font-size: 16px;
   line-height: 1.4em;
-  margin: 1em 0;
+  margin: 0.5em 0;
   padding: 0;
 }
 ul.tweet_list li a.tweet_avatar {
   border-bottom: none;
   clear: left;
-  padding: 0px 10px 5px 0px;
+  float: left;
+  padding: 0px 10px 10px 0px;
 }
 ul.tweet_list li span.tweet_text {
+  display: block;
 }
 ul.tweet_list li span.tweet_time a {
+  display: block;
   border-bottom: none;
   color: #999;
   font-size: 12px;
