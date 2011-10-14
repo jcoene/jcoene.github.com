@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Jason Coene
+summary: Hi, I'm Jason. I build applications out of my home in Rochester, NY.
 ---
 
 ## Hi, I'm Jason ;-)
